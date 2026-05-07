@@ -33,7 +33,7 @@
 
 ## 📌 Featured Projects
 
-<div align="center">
+<div>
 
 ### 🚗 License Plate Recognition System
 AI-powered license plate recognition system capable of detecting and processing vehicle plates from images and video streams.
