@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=180&section=header&text=Mihri's%20GitHub&fontSize=40&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=180&section=header&text=Mihrinur's%20GitHub&fontSize=40&fontColor=ffffff" />
 
 # Hi there, I'm Mihrinur 👋
 
@@ -45,18 +45,6 @@ Dockerized full-stack web application deployed with cloud infrastructure and CI/
 
 ### 📊 Data Engineering & AI
 Projects involving Kafka, Spark and big data processing workflows.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
