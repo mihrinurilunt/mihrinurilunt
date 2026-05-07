@@ -1,16 +1,83 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mihrinurilunt/mihrinurilunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Mihrinur 👋
 
-Here are some ideas to get you started:
+### Software Engineer • AI Enthusiast • Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;Backend+%26+Cloud+Developer;Turning+ideas+into+real+products;Always+learning+new+technologies" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💻 Software Engineer passionate about building real-world applications  
+- 🤖 Interested in AI, Backend Systems and Cloud Technologies  
+- 🐳 Working with Docker, FastAPI, PostgreSQL and modern development tools  
+- 🌱 Currently improving my full-stack and DevOps skills  
+- ☕ Powered by coffee and curiosity  
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flutter,dart,cs,cpp,java,docker,postgres,mysql,git,github,linux,aws,html,css" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Document Assistant
+AI-powered document summarization and chat application built with FastAPI and LLM integrations.
+
+### 📸 Locket Clone
+Widget-based photo sharing mobile application using FlutterFlow + FastAPI backend.
+
+### 🐳 Cloud Deployment Project
+Dockerized full-stack web application deployed with cloud infrastructure and CI/CD practices.
+
+### 📊 Data Engineering & AI
+Projects involving Kafka, Spark and big data processing workflows.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mihrinurilunt">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:iluntmihrinur@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Building useful things and learning something new every day.”
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=7E3ACE&style=flat" />
+
+</div>
