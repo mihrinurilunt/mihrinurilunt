@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=180&section=header&text=Mihri's%20GitHub&fontSize=40&fontColor=ffffff" />
+
 # Hi there, I'm Mihrinur 👋
 
 ### Software Engineer • AI Enthusiast • Backend Developer
@@ -81,3 +83,7 @@ Projects involving Kafka, Spark and big data processing workflows.
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=7E3ACE&style=flat" />
 
 </div>
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg)
