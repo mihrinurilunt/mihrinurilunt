@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=180&section=header&text=Mihrinur%20•%20Software%20Engineer&fontSize=38&fontColor=ffffff" />
-# Hi there, I'm Mihrinur 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=180&section=header&text=Mihrinur%20İlunt&fontSize=38&fontColor=ffffff" />
 
 ### Software Engineer building AI-powered products
 
@@ -25,19 +24,16 @@
 
 <div align="center">
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,flutter,dart,git,github,linux,cpp,cs,mysql" />
 
 </div>
 
-</div>
 
 ---
 
 ## 📌 Featured Projects
+
+<div align="center">
 
 ### 🚗 License Plate Recognition System
 AI-powered license plate recognition system capable of detecting and processing vehicle plates from images and video streams.
@@ -63,6 +59,9 @@ Containerized full-stack application deployed using Docker-based workflows and c
 
 **Tech:**
 Docker • PostgreSQL • Linux
+
+</div>
+
 ---
 
 ## 🌐 Connect With Me
